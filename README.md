@@ -3,7 +3,7 @@
 This repository **was** archive of inter-school cooperation curriculum game development lecture tasks. But recently, I'm updating this project little by little to play with my friends.  
 
 ## What the hell is this game?
-Maybe advance the "Roll a Ball" Game. But players must jump up to a specific spot, and don't need to roll a ball.
+Maybe advanced "Roll a Ball" Game. But players must jump up to a specific spot, and don't need to roll a ball.
 
 ## Run Game
 Because of copyright issues, I omitted BGM files. So, You must replace music files.
