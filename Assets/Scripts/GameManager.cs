@@ -9,6 +9,12 @@ public class GameManager : MonoBehaviour
     public bool isDebugMode = false;
     public float timeRecord;
 
+    void Update() {
+        if (Input.GetKeyDown(KeyCode.R)) {
+            GotoMain();
+        }
+    }
+
     // 하나의 GameManager 인스턴스만 존재하도록 강제하는 로직
     private void Awake()
     {
@@ -38,5 +44,12 @@ public class GameManager : MonoBehaviour
     {
         int currentSceneIndexNum = SceneManager.GetActiveScene().buildIndex;    // 인트로씬이라면 0
         SceneManager.LoadScene(currentSceneIndexNum);
+    }
+
+    public void GotoMain() {
+        SceneManager.LoadScene(0);
+    }
+    public void Quit() {
+        Application.Quit();
     }
 }
