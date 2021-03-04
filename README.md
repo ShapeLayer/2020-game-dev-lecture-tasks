@@ -1,6 +1,6 @@
 # 2020 Inter-school Cooperation Curriculum Game Development Lecture Tasks
 
-This repository **was** archive of inter-school cooperation curriculum game development lecture tasks. But recently, I'm updating this project little by little to enjoy it with my friends.  
+This repository **was** archive of inter-school cooperation curriculum game development lecture tasks. But recently, I'm updating this project little by little to play with my friends.  
 
 ## What the hell is this game?
 Maybe advance the "Roll a Ball" Game. But players must jump up to a specific spot, and don't need to roll a ball.
@@ -14,5 +14,6 @@ Target files:
 Conteminated Sea.mp3
 Memory of Sunset.mp3
 Secret Labyrinth.mp3
+Borderless.mp3
 ```
  * You can also find omitted BGM list from the [.gitignore](.gitignore) file.

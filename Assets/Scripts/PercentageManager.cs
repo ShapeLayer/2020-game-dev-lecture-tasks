@@ -22,6 +22,9 @@ public class PercentageManager : MonoBehaviour
     {
         double percentageNative = Player.transform.localPosition.y / maximumYPos * 100;
         percentage = Math.Round(percentageNative, 0);
+        if (percentage > 100) {
+            percentage = 100;
+        }
         ProcessValue.text = $"{percentage}%";
     }
 }

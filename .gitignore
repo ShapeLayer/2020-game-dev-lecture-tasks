@@ -14,6 +14,7 @@
 /Assets/Sounds/Conteminated Sea.mp3
 /Assets/Sounds/Memory of Sunset.mp3
 /Assets/Sounds/Secret Labyrinth.mp3
+/Assets/Sounds/Borderless.mp3
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
