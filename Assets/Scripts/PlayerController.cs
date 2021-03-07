@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
     Rigidbody rb;
     public float speed = 5.0f;
-    public float worldBorder = 20f;
+    public float worldBorder = 100f;
     public int totalTargets, score;
 
     // Start is called before the first frame update
