@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(this.gameObject);
     }
 
-    // 다음 씬을 로드하는 메소드s
+    // 다음 씬을 로드하는 메소드
     public void LoadNextScene()
     {
         int currentSceneIndexNum = SceneManager.GetActiveScene().buildIndex;    // 인트로씬이라면 0

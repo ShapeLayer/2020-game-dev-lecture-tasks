@@ -12,8 +12,5 @@ Target files:
 ```
 ./Assets/Sounds
 Conteminated Sea.mp3
-Memory of Sunset.mp3
-Secret Labyrinth.mp3
-Borderless.mp3
 ```
  * You can also find omitted BGM list from the [.gitignore](.gitignore) file.
